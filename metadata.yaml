@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25418
     wikipedia: http://fr.wikipedia.org/wiki/Charles_Le_Goffic
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33929#DixmudeThe-epic-of-the-French-marines--October-17-November-10-1914-
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2010-10-13'
 gutenberg_type: Text
